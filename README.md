@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Namaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=namarajk)](https://github.com/namarajk/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namarajk&layout=compact)](https://github.com/namarajk/github-readme-stats)
 <!--
 **namarajk/namarajk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
