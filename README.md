@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namarajk&layout=compact)](https://github.com/namarajk/github-readme-stats)
 
-🌱 I’m currently learning React js
+🌱 I’m currently learning React js<br>
 📫 How to reach me: namarajkc0325@gmail.com
 <!--
 **namarajk/namarajk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
