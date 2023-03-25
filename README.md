@@ -3,11 +3,13 @@
 
 
 <br>
-🌱 I’m currently learning React js<br>
+🌱 I’m currently learning React js
+<br>
 📫 How to reach me: namarajkc0325@gmail.com
 <br>
 
 <h2  align="center">📫 Reach me on</h2>
+<br> 
 <p align="center">
   <a href="nabaraj:namarajkc0325@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
