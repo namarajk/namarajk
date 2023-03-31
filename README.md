@@ -8,7 +8,6 @@ As a student, I'm constantly seeking new opportunities to expand my knowledge an
 
 In my free time, I enjoy tinkering with personal projects and experimenting with new tools and technologies. I'm excited about the possibilities that technology can bring to the world and am always looking for ways to make a positive impact.
 
-Thank you for taking the time to learn a little bit about me. I look forward to connecting with others who share my passion for learning and technology!
 <br>
   <p/>
 🌱 I’m currently learning React js
