@@ -14,6 +14,9 @@ In my free time, I enjoy tinkering with personal projects and experimenting with
 <br>
 📫 How to reach me: namarajkc0325@gmail.com
 <br>
+📫 How to reach me: https://www.facebook.com/nabarajk01
+
+<br>
 
 <h2  align="center">📫 Reach me on</h2>
 <br> 
